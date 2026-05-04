@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#FF5733;">Md. Mahbubur Rahman Maksud</span></h1>
+<h1 align="center">Md. Mahbubur Rahman Maksud</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF5733&center=true&vCenter=true&width=500&lines=Exploring+Networking+%26+Cloud">
